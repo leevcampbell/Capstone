@@ -1,9 +1,12 @@
 body {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
 }
 .make-visible{
     color: aliceblue;
 }
 h1  {
+    color: aliceblue;
+}
+h2 {
     color: aliceblue;
 }
